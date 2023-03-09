@@ -1,0 +1,15 @@
+{
+    "allWines":[
+        {
+            "id": 1,
+            "name": "Terra Serena Prosecco Frizzante Treviso",
+            "img": "https://winewine.com.ua/wp-content/uploads/2019/11/terra-serena-prosecco-frizzante-treviso-1881.png",
+            "color": "White, dry",
+            "country": "Italy",
+            "type": "Proseco",
+            "price": 300,
+            "description": "Everything is simple with this prosecco: you need to take 6 immediately so as not to return a second time Terra Serena Prosecco Frizzante is an example of a good and simple prosecco that should be bought by the case in summer. Light and refreshing, soft small bubbles, a floral aromatic profile and a slight pleasant sweetness on the palate."
+          }
+    ]
+}
+    
