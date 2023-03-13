@@ -8,6 +8,7 @@
             "country": "Italy",
             "type": "Proseco",
             "price": 300,
+            "quantity": 1,
             "description": "Everything is simple with this prosecco: you need to take 6 immediately so as not to return a second time Terra Serena Prosecco Frizzante is an example of a good and simple prosecco that should be bought by the case in summer. Light and refreshing, soft small bubbles, a floral aromatic profile and a slight pleasant sweetness on the palate."
         },
         {
@@ -18,6 +19,7 @@
            "country": "France",
             "type": "Champagne",
            "price": 2500,
+           "quantity": 1,
             "description": "Moet & Chandon Rose Imperial is a spontaneous, radiant, romantic expression of the Moet & Chandon style - a style characterized by bright fruitiness, seductive flavors and elegant maturity. Moet & Chandon Rose Imperial Champagne reflects the diversity and complementarity of three grape varieties: pinot noir (40% to 50%), pinot meunier (30% to 40%), and chardonnay (10% to 20%)."
         },
         {
@@ -28,6 +30,7 @@
             "country": "France",
             "type": "Glera",
             "price": 400,
+            "quantity": 1,
             "description": "Terra Fresca Spago Frizzante was created specifically for Aperol, but it became my top seller: it is taken home, at buffets, banquets and corporate parties Terra Fresca Spago Frizzante is made entirely in the style of Prosecco, but the geography of origin of the grape is wider, so it cannot be called Prosecco according to Italian law."
           },
           {
@@ -38,6 +41,7 @@
             "country": "Italy",
             "type": "Wine",
             "price": 840,
+            "quantity": 1,
             "description": "Settesoli Nero dAvola - Nero dAvola from Sicily, which is always associated with rich 'heavy' wines, but not this time. A drinkable, clean and well-balanced wine with a juicy berry-fruit profile.The aroma is fresh, with bright notes of ripe cherry."
           },
           {
@@ -48,6 +52,7 @@
             "country": "Germany",
             "type": "Soft",
             "price": 200,
+            "quantity": 1,
             "description": "Latinium Liebfraumilch German semi-sweet white dry wine.The taste of Latinium Liebfraumilch: balanced, with a slight sourness and apple notes Aroma of Latinium Liebfraumilch: fruity.Color of Latinium Liebfraumilch: pale straw"
           },
           {
@@ -58,6 +63,7 @@
             "country": "South Africa",
             "type": "Soft",
             "price": 185,
+            "quantity": 1,
             "description": "Jack Rabbit Medium Sweet Red is a semi-sweet red wine made from Cabernet and Senso grapes. I highly recommend it to those who like semi-sweet lambrusco and similar light drinking wines. The aroma is creamy, fruity and berry. Taste Jack Rabbit Medium Sweet Red: Velvety and soft, with hints of blackcurrant and blackberry, a sweet aftertaste. Jack Rabbit Medium Sweet Red is a fun label, a cool price, and a nice drinkable wine inside."
           },
           {
@@ -68,6 +74,7 @@
             "country": "Italy",
             "type": "Moscato",
             "price": 245,
+            "quantity": 1,
             "description": "Costa Bricco Asti Spumante is a classic sparkling Asti DOCG from southeastern Piedmont. Tasty, light, cheerful. Color of Costa Bricco Asti Spumante: pale gold. The aroma of Costa Bricco Asti Spumante: fragrant, delicate, with light notes of acacia, juicy grapes and flowers. Taste of Costa Bricco Asti Spumante: fresh and sweet, with predominant notes of ripe fruit and flowers."
           }, 
           {
@@ -78,6 +85,7 @@
             "country": "Italy",
             "type": "Prosecco",
             "price": 445,
+            "quantity": 1,
             "description": "Val dOca Rive di Santo Stefano is a rather rare example of prosecco of the Extra Brut category and the driest wine in the terroir line of Le Rive. Val dOca Rive di Santo Stefano is a prosecco from a single vineyard located next to the famous Cartizze hill. Exceptionally strict in its style, sparkling wine with shades of flowers, citrus and emphasized minerality and dryness in the taste."
           }
     ]
